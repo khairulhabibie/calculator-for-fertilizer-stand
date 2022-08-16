@@ -1,0 +1,2 @@
+1. pastikan semua file telah di download
+2. buka file dengan exstention .bat
